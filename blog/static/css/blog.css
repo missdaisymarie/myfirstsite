@@ -1,5 +1,5 @@
 body {
-    padding-left: 15px;
+    padding: 0px 15px;
 }
 
 h1, h2, h3, h4 {
@@ -52,4 +52,12 @@ h1 a, h2 a {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+}
+
+.top-menu span {
+    margin-top: 20px;
+}
+
+.btn-default {
+    margin-left: 20px;
 }
